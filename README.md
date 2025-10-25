@@ -20,4 +20,4 @@ Features include:
 - `Student.java` — Defines the Student class.
 - `StudentManagementSystem.java` — Contains the main logic and menu.
 
-Author: *Your Name*
+Author: SAYOOJ S
